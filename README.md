@@ -2,9 +2,8 @@
 a list of cross-platform dotnet user interface libraries and frameworks
 
 # Pure C#
-* (WIP) [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui)
-* [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)
-* (WIP) [Hello ImGui](https://github.com/zwcloud/ImGui)
+* (WIP) [.NET Multi-platform App UI (MAUI)](https://github.com/dotnet/maui) .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. 
+* [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) Xamarin.Forms is an open source cross-platform framework from Microsoft for building iOS, Android, & Windows apps with .NET from a single shared codebase.
 
 # Not pure C#
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) Avalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS.
